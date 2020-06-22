@@ -25,4 +25,38 @@ hr {
   margin: 10px 50px; 
 }
 
+/*Selector de clase*/
+.sector-left {
+  margin: -10px;
+}
+
+/*Selector de clase*/
+.container {
+  margin: 20px 50px;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #3f3b3b;
+  text-align: justify;
+}
+
+/*Selector descendente*/
+.container p {
+  padding: 10px;
+  line-height: 20px;
+}
+/*Selector descendente*/
+.container p b {
+  color: #4b9e90;
+}
+/*Selector de etiqueta*/
+img {
+  padding: 1px;
+  margin: 10px 0;
+  border-radius: 20px;
+}
+/*Selector de clase*/
+.sector-right {
+  margin: 0 auto;
+}
+
 
